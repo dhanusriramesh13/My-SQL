@@ -10,7 +10,7 @@ public class JDBCDemo {
        String url="jdbc:mysql://localhost:3306/jdbcdemo";
        
        String userName="root";
-       String passWord="Kowsick@2005";
+       String passWord="*****";
        
        String query=  "select * from employee";
        
@@ -34,5 +34,6 @@ public class JDBCDemo {
        
        
    }
+
 
 }
